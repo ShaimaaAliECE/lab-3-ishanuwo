@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F8D03A7A-BFDF-4CDB-8840-ACC9EA70E485}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab3App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3App/Program.cs">
+    <Files>
+      <File FileName="Lab3App/Program.cs" Line="18" Column="45" />
+      <File FileName="Lab3App/Displayable.cs" Line="8" Column="2" />
+      <File FileName="Lab3App/CollectionBoard.cs" Line="7" Column="26" />
+      <File FileName="Lab3App/Collectable.cs" Line="10" Column="3" />
+      <File FileName="Lab3App/Tool.cs" Line="12" Column="15" />
+      <File FileName="Lab3App/MagicWand.cs" Line="6" Column="1" />
+      <File FileName="Lab3App/Axe.cs" Line="5" Column="3" />
+      <File FileName="Lab3App/Treasure.cs" Line="21" Column="38" />
+      <File FileName="Lab3App/Diamond.cs" Line="6" Column="81" />
+      <File FileName="Lab3App/Coin.cs" Line="20" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3Sln">
+            <Node name="Lab3App" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
