@@ -20,6 +20,7 @@ namespace Lab3App
         {
             // Add the value of this coin to the total value on the board
             Board.TotalValue += value;
+            Console.WriteLine("Total Value is updated to: " + Board.TotalValue);
         }
 
         // Override the Display method from the base class Collectable
